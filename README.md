@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaining knowledge in Web Development
 - 🌱 I’m currently learning Flexbox and CSS-Grid 
 - 💞️ I’m looking to collaborate on developing dynamic animated web development
-- 📫 How to reach me ...
+- 📫 How to reach me abhinna.biswal@outlook.com
 
 <!---
 abhinnachandra/abhinnachandra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
